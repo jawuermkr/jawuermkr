@@ -10,11 +10,6 @@
 
 ***
 
-<a href="https://www.linkedin.com/in/jawuermkr/"><img src="https://user-images.githubusercontent.com/77691249/162334537-1a05ab0d-93d1-4e51-a800-0faff34d3840.png" target="_blank"/></a>
+<img style="padding:2%; float:left;" src="https://github-readme-stats.vercel.app/api?username=jawuermkr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="56%">
 
-<div style="width:70%; float: left;">
-![jawuermkr GitHub stats](https://github-readme-stats.vercel.app/api?username=jawuermkr&theme=dracula&show_icons=true)
-</div>
-<div style="width:30%; float: left;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawuermkr&langs_count=8&layout=compact&theme=dracula)](https://github.com/jawuermkr/github-readme-stats)
-</div>
+<img style="padding:2%; float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawuermkr&langs_count=8&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="36%">
