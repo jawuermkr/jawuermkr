@@ -4,8 +4,8 @@
 
 ***
 
-* 💻 <a href="http://jawuer.com" target="_blank" >Web Profile</a>
 * 🌕 <a href="http://verdaluno.com" target="_blank" >Web Services</a>
+* 🧊 <a href="http://tempikubo.verdaluno.com" target="_blank" >Cube project</a>
 * 🤓 Esperanto activist.
 
 ***
