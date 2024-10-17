@@ -4,8 +4,8 @@
 
 ***
 
-* 🌕 <a href="http://verdaluno.com" target="_blank" >Web Services</a>
-* 🧊 <a href="http://tempikubo.verdaluno.com" target="_blank" >Cube project</a>
+* 🌕 <a href="http://instagram.com/verdaluno" target="_blank" >Web Services</a>
+* 🧊 <a href="http://tempikubo.xyz" target="_blank" >Cube project</a>
 * 🤓 Esperanto activist.
 
 ***
